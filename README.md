@@ -42,7 +42,7 @@ Izobraževanje je sestavljeno iz več manjših enot. Vsaka enota ima pripadajoč
   * Agregacija
   * Vizualizacija
 
-* Preverjanje znanja
+* [Preverjanje znanja](https://classroom.github.com/a/QCXklcNH)
 ---
 
 > Izobraževanje se izvaja v okviru pilotnega projekta UM FERI z naslovom "Razvoj prožnih učnih pristopov z mikrodokazili za digitalno in zeleno preobrazbo izobraževanja za prehod v Družbo 5.0", ki je del Načrta za okrevanje in odpornost (NOO).  
